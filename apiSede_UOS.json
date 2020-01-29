@@ -1,0 +1,36 @@
+{
+  "status": true,
+  "dati": [
+    {
+      "codSede": "935d1a65-0d2e-76ff-e050-a8c0d3064563",
+      "indirizzoSede": {
+        "indirizzo": "Via Cavour 5",
+        "cap": "00184",
+        "codRegione": "12",
+        "codProvincia": "RM",
+        "codComune": "58091"
+      },
+      "recapito": [
+        {
+          "tipo": "tel",
+          "numero": "0646529430"
+        }
+      ],
+      "mail": [
+        {
+          "mail": "ril.capitolatitecnici@vigilfuoco.it",
+          "flUfficiale": "S"
+        }
+      ],
+      "coordinateGeo": "[,]",
+      "dtValInizio": "20191022",
+      "dtValFine": "",
+      "flOperativa": null,
+      "dtIns": "20200129",
+      "dtUltAgg": "20191022",
+      "userAgg": "utente"
+    }
+  ],
+  "numTotaleOccorrenze": 1,
+  "message": null
+}

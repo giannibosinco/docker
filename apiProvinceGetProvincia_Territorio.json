@@ -1,0 +1,12 @@
+{
+  "status": true,
+  "dati": [
+    {
+      "codProvincia": "RM",
+      "descProvincia": "ROMA",
+      "codRegione": "12"
+    }
+  ],
+  "numTotaleOccorrenze": 1,
+  "message": null
+}

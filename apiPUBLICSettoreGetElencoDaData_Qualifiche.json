@@ -1,0 +1,254 @@
+{
+  "dati": [
+    {
+      "idSettore": "57394748-454f-3444-3242-57444d464938",
+      "codSettore": "S5",
+      "descSettore": "DIRIGENTI",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "49365632-3253-4431-3930-3559584e5854",
+      "codSettore": "S6",
+      "descSettore": "AMMINISTRATIVO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "47373132-4947-3146-4b4d-5755304a4830",
+      "codSettore": "S7",
+      "descSettore": "ECONOMICO-AMMINISTRATIVO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "474e5456-5331-5254-4845-564c32425835",
+      "codSettore": "S8",
+      "descSettore": "LINGUISTICO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "32553344-5859-4d39-4832-44544d4a4435",
+      "codSettore": "S9",
+      "descSettore": "INFORMATICO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "59465354-5247-4b4b-4732-314954433758",
+      "codSettore": "S10",
+      "descSettore": "BIBLIOTECARIO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "494b4137-4932-5450-3657-4c5341474b38",
+      "codSettore": "S11",
+      "descSettore": "ORGANIZZAZIONE",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "33524154-3141-504a-5450-4d535948564f",
+      "codSettore": "S12",
+      "descSettore": "TECNICO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "57314d44-5856-5852-4d49-525338374c50",
+      "codSettore": "S13",
+      "descSettore": "STATISTICO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "4d523141-4638-3030-5a36-4230304c494b",
+      "codSettore": "S14",
+      "descSettore": "SOCIALE",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "364f4d49-4345-4735-534a-564a39344634",
+      "codSettore": "S15",
+      "descSettore": "EDUCATIVO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "36464452-5758-4450-5343-575649394834",
+      "codSettore": "S16",
+      "descSettore": "PREFETTIZIO",
+      "codComparto": 1,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "4c4a4752-4b4c-3741-3953-344e41383252",
+      "codSettore": "S1",
+      "descSettore": "OPERATIVO",
+      "codComparto": 2,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "31443946-5941-4857-434d-534152313541",
+      "codSettore": "S2",
+      "descSettore": "AERONAVIGANTE",
+      "codComparto": 2,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "49513959-4b38-3930-5930-4d344f595247",
+      "codSettore": "S3",
+      "descSettore": "SERVIZI AMMINISTRATIVI, TECNICI ED INFORMATICI",
+      "codComparto": 2,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "59585151-5248-444e-5730-394e43375742",
+      "codSettore": "S4",
+      "descSettore": "DIRIGENTI",
+      "codComparto": 2,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "4e503239-3236-5731-5754-374730305657",
+      "codSettore": "S29",
+      "descSettore": "RAPPRESENTANZA",
+      "codComparto": 2,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "4d594634-524b-3335-4c4e-36484b473452",
+      "codSettore": "SE",
+      "descSettore": "SETTORE ESTERNI",
+      "codComparto": 3,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "5837524b-3748-4158-594c-31574d4e4b58",
+      "codSettore": "S17",
+      "descSettore": "DIRIGENTI",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "5435555a-4b57-4337-314d-4f4943553443",
+      "codSettore": "S18",
+      "descSettore": "AMMINISTRATIVO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "5a543433-4648-3346-3130-4a364551314b",
+      "codSettore": "S19",
+      "descSettore": "ECONOMICO-AMMINISTRATIVO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "48424348-4330-4d33-4456-475431314e32",
+      "codSettore": "S20",
+      "descSettore": "LINGUISTICO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "33575650-3032-3030-554f-30414238574a",
+      "codSettore": "S21",
+      "descSettore": "INFORMATICO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "445a5a59-3737-4759-5a39-544a48333551",
+      "codSettore": "S22",
+      "descSettore": "BIBLIOTECARIO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "47414656-3151-434b-3042-52434c5a3542",
+      "codSettore": "S23",
+      "descSettore": "ORGANIZZAZIONE",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "38364656-4d39-504a-3551-4d4a33365150",
+      "codSettore": "S24",
+      "descSettore": "TECNICO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "31524134-4741-5a56-4151-505337345356",
+      "codSettore": "S25",
+      "descSettore": "STATISTICO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "51523050-4f50-3046-3558-305437413235",
+      "codSettore": "S26",
+      "descSettore": "SOCIALE",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "5744494d-3147-3541-3656-314752424b55",
+      "codSettore": "S27",
+      "descSettore": "EDUCATIVO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "54414551-3656-4151-3752-564952593457",
+      "codSettore": "S28",
+      "descSettore": "PREFETTIZIO",
+      "codComparto": 5,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    },
+    {
+      "idSettore": "59573530-4655-3057-3038-33384d504956",
+      "codSettore": "SC",
+      "descSettore": "SETTORE COMANDATI DI ALTRE AMMINISTRAZIONI",
+      "codComparto": 6,
+      "dtValInizio": "20180101",
+      "dtValFine": null
+    }
+  ],
+  "numTotaleOccorrenze": 31,
+  "message": "Ricerca avvenuta con successo"
+}

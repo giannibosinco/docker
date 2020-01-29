@@ -1,0 +1,127 @@
+{
+  "status": true,
+  "dati": [
+    {
+      "codRegioneISTAT": "13",
+      "descRegione": "ABRUZZO",
+      "codArea": "3",
+      "codRegioneAT": "1"
+    },
+    {
+      "codRegioneISTAT": "17",
+      "descRegione": "BASILICATA",
+      "codArea": "3",
+      "codRegioneAT": "2"
+    },
+    {
+      "codRegioneISTAT": "18",
+      "descRegione": "CALABRIA",
+      "codArea": "3",
+      "codRegioneAT": "4"
+    },
+    {
+      "codRegioneISTAT": "15",
+      "descRegione": "CAMPANIA",
+      "codArea": "3",
+      "codRegioneAT": "5"
+    },
+    {
+      "codRegioneISTAT": "08",
+      "descRegione": "EMILIA ROMAGNA",
+      "codArea": "1",
+      "codRegioneAT": "6"
+    },
+    {
+      "codRegioneISTAT": "06",
+      "descRegione": "FRIULI VENEZIA GIULIA",
+      "codArea": "1",
+      "codRegioneAT": "7"
+    },
+    {
+      "codRegioneISTAT": "12",
+      "descRegione": "LAZIO",
+      "codArea": "2",
+      "codRegioneAT": "8"
+    },
+    {
+      "codRegioneISTAT": "07",
+      "descRegione": "LIGURIA",
+      "codArea": "1",
+      "codRegioneAT": "9"
+    },
+    {
+      "codRegioneISTAT": "03",
+      "descRegione": "LOMBARDIA",
+      "codArea": "1",
+      "codRegioneAT": "10"
+    },
+    {
+      "codRegioneISTAT": "11",
+      "descRegione": "MARCHE",
+      "codArea": "2",
+      "codRegioneAT": "11"
+    },
+    {
+      "codRegioneISTAT": "14",
+      "descRegione": "MOLISE",
+      "codArea": "3",
+      "codRegioneAT": "12"
+    },
+    {
+      "codRegioneISTAT": "01",
+      "descRegione": "PIEMONTE",
+      "codArea": "1",
+      "codRegioneAT": "13"
+    },
+    {
+      "codRegioneISTAT": "16",
+      "descRegione": "PUGLIA",
+      "codArea": "3",
+      "codRegioneAT": "14"
+    },
+    {
+      "codRegioneISTAT": "20",
+      "descRegione": "SARDEGNA",
+      "codArea": "4",
+      "codRegioneAT": "15"
+    },
+    {
+      "codRegioneISTAT": "19",
+      "descRegione": "SICILIA",
+      "codArea": "4",
+      "codRegioneAT": "16"
+    },
+    {
+      "codRegioneISTAT": "09",
+      "descRegione": "TOSCANA",
+      "codArea": "2",
+      "codRegioneAT": "17"
+    },
+    {
+      "codRegioneISTAT": "04",
+      "descRegione": "TRENTINO ALTO ADIGE",
+      "codArea": "1",
+      "codRegioneAT": "18"
+    },
+    {
+      "codRegioneISTAT": "10",
+      "descRegione": "UMBRIA",
+      "codArea": "2",
+      "codRegioneAT": "19"
+    },
+    {
+      "codRegioneISTAT": "02",
+      "descRegione": "VALLE D'AOSTA",
+      "codArea": "1",
+      "codRegioneAT": "20"
+    },
+    {
+      "codRegioneISTAT": "05",
+      "descRegione": "VENETO",
+      "codArea": "1",
+      "codRegioneAT": "21"
+    }
+  ],
+  "numTotaleOccorrenze": 20,
+  "message": null
+}
